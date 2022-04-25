@@ -44,12 +44,12 @@ Understanding positioning is something I am still working on. I was able to figu
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) - I used this W3 schools resource to help me with the media queries and I was able to understand what I needed to do pretty well 
+- [W3 Schools](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) - I used this W3 schools resource to help me with the media queries and I was able to understand what I needed to do pretty well 
 
 ## Author
 
 - Frontend Mentor - [@spenceraevans](https://www.frontendmentor.io/profile/spenceraevans)
 - Twitter - [@spenceraevans](https://twitter.com/spenceraevans)
-- GitHub - [@spenceraevans] (https://github.com/spenceraevans)
+- GitHub - [@spenceraevans](https://github.com/spenceraevans)
 
 
