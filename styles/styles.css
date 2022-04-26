@@ -4,12 +4,11 @@ body {
 }
 
 p {
-    font-size: 15px;
+    font-size: 16px;
     padding: 0 20px 0 20px;
 }
 
 img {
-    position: relative;
     width: 90%;
     border-radius: 10px;
 }
@@ -18,17 +17,18 @@ img {
     background-color: hsl(0, 0%, 100%);
     position: relative;
     text-align: center;
-    width: 20%;
-    margin: 75px auto 75px auto;
+    width: 20rem;
+    margin: 10rem auto;
     border-radius: 20px;
-    padding: 12px 0 12px 0;
+    padding: 1rem 0;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .big-text {
     font-weight: 700;
-    font-size: 20px;
+    font-size: 25px;
     color: hsl(218, 44%, 22%);
+    padding: 0 1rem;
 }
 
 .small-text {
